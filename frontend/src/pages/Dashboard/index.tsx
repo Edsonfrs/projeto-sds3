@@ -1,6 +1,6 @@
 import NavBar from "components/NavBar";
 import Footer from "components/Footer";
-import DataTable from "components/datatable.tsx";
+import DataTable from "components/DataTable.tsx";
 import BarChart from "components/BarChart";
 import DonutChart from "components/DonutChart";
 
