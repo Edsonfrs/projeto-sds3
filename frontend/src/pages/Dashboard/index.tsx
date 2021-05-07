@@ -1,4 +1,4 @@
-import NavBar from "components/navbar";
+import NavBar from "components/NavBar";
 import Footer from "components/Footer";
 import DataTable from "components/datatable.tsx";
 import BarChart from "components/BarChart";

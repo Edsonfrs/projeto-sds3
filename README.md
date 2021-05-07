@@ -31,29 +31,26 @@ Objetivo: Criação de app de dashboard de vendas com Frontend e Backend hospeda
 
 # Produção
 
-- Frontend: Netlify
-- Backend: Heroku
+- Front end: Netlify
+- Back end: Heroku
 - Banco de Dados: Postgres
 
-## Instrutor(a)
+# Instrutor
 
 Prof. Nélio Alves
 
 
-## Entidade
+# Entidade
 
-<img src="./frontend/src/assets/img/ds_dark.svg" width="50%" align="left">
-
-Dev Superior  http:www.devsuperior.com
+[DEVSUPERIOR](http:www.devsuperior.com.BR)
 
 
-
-
-
-## Autor
+# Autor
 Edson souza
 
-[Linkedin](https://www.linkedin.com/in/edsonfrs/)
+[Meu Linkedin](https://www.linkedin.com/in/edsonfrs/)
 
-[GitHub](https://github.com/Edsonfrs)
+
+
+
 
